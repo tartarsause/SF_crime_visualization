@@ -8,3 +8,5 @@ Next, search through the script for the 2 TODO parts, the first should be to pro
 Once both TODOs have been completed, run the entire script with ctrl+alt+R or run each individual line with ctrl+enter.
 
 If the entire script has been run, give it a few moments to produce the images and there should be 9 png images in the working directory.
+
+![alt text](https://github.com/tartarsause/SF_crime_visualization/blob/master/Heatmap_Crimes.png?raw=true)
